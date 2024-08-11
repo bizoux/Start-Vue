@@ -1,5 +1,5 @@
 <template>
-  <center><h1>Salut tout le monde</h1></center>
+  <center><h1>Salut tout le monde. Je suis un developpeur web</h1></center>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
@@ -14,7 +14,7 @@ export default {
   }
 }
 </script>
-
+  
 <style>
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
