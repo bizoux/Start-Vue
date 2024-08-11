@@ -1,7 +1,5 @@
 <template>
-<div class="fond">
-  <center>On commence le projet!!!</center>
-</div>
+  <center><h2>On commence le projet!!!</h2></center>
 </template>
 
 <script>
