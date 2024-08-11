@@ -1,7 +1,7 @@
 <template>
   <center><h1>Salut tout le monde. Je suis un developpeur web</h1></center>
   <center><img src="images/Bizoux.jpg" alt="Bizoux"></center>
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <HelloWorld/>
 </template>
 
 <script>
