@@ -1,6 +1,6 @@
 <template>
   <center><h1>Salut tout le monde. Je suis un developpeur web</h1></center>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <center><img src="images/Bizoux.jpg" alt="Bizoux"></center>
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
