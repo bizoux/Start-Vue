@@ -1,7 +1,7 @@
 <template>
   <div class="fond">
   <center><h1>Salut tout le monde. Je suis un developpeur web</h1></center>
-  <center><img src="./images/Bizoux.jpg" alt="Bizoux"></center>
+  <center><img src="./images/Bizoux.jpg" alt="BizouxAbrivard"></center>
   <HelloWorld/>
 </div>
 </template>
